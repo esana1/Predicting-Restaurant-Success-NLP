@@ -59,4 +59,12 @@ The project provides actionable insights for restaurant businesses to thrive by 
 Clone the repository:
    ```bash
    git clone https://github.com/esana1/Predicting-Restaurant-Success-PA.git
-   
+   ```
+
+## Contributors
+
+- Ehtesham Sana
+- Snigdha Pilli
+- Lin Liu
+- Ganesh Apparaju
+- Ronald Chiang
