@@ -1,4 +1,4 @@
-# Predicting Restaurant Business Success in Pennsylvania: A Data-Driven Approach
+# Predicting Restaurant Business Success in Pennsylvania: A Data-Driven NLP Approach
 
 This project leverages Yelp data to predict the success of restaurant businesses in Pennsylvania. By analyzing customer reviews and ratings, we aim to identify key factors contributing to a restaurant's success and provide actionable insights for improvement.
 
