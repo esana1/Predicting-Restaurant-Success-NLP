@@ -64,6 +64,7 @@ Clone the repository:
 ## Contributors
 
 - Ehtesham Sana
+- Jessy Reshma
 - Snigdha Pilli
 - Lin Liu
 - Ganesh Apparaju
